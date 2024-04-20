@@ -22,9 +22,10 @@ This is a simple implementation of the Tic Tac Toe game using Python's tkinter l
 2. Clone or download the repository containing this code.
 3. Navigate to the directory where the code is located.
 4. Run the following command in your terminal or command prompt:
+   ```
    
    python app.py
-   
+   ```
 
 ## Code Structure
 
